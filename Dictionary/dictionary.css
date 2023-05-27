@@ -25,7 +25,7 @@ body {
     border-radius: 7px;
     background: white;
     padding: 25px 28px 45px;
-    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
+    box-shadow: 7px 7px 20px maroon;
 }
 
 .wrapper header {
@@ -73,7 +73,7 @@ body {
 }
 
 .search input:focus ~ i {
-    color: #4D59FB;
+    color: maroon;
 }
 
 .search span {
