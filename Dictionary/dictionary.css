@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&family=Montserrat:wght@200;400&family=Raleway&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Wix Madefor Display', sans-serif;
+     font-family: 'Chakra Petch', sans-serif;
 }
 
 body {
